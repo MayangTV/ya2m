@@ -1,7 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:8
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://mytv-extra.com:80/t12mgxyb335/9832948789/hls/28e1e3d9518b311db68b9e1a9630949c/45098_8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_240p/hdntl=exp=1716729054~acl=%2f*~id=allUsers~data=hdntl~hmac=32872ab0c950e3eb8d43d333aa68db45fc52c2da708801e96c6012fc9ff72516/index.m3u8
