@@ -1,2 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:CODECS="avc1.77.41,mp4a.40.2
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_240p/hdntl=exp=1716729054~acl=%2f*~id=allUsers~data=hdntl~hmac=32872ab0c950e3eb8d43d333aa68db45fc52c2da708801e96c6012fc9ff72516/index.m3u8
