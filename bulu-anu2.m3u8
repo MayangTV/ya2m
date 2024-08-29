@@ -1,7 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-MEDIA-SEQUENCE:1722254113
-#EXT-X-TARGETDURATION:4
-#EXTINF:4,
-https://lebo.huminbird.cn/live/ballbar_38540.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,
+https://lebo.huminbird.cn/live/ballbar_27490.m3u8
