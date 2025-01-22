@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=894100, RESOLUTION=1280x720
-https://live-114.myjktv.com/playlist/live.m3u8?sid=zvBmkJ9TEU8p4I5i1AcfV1bccxBwqr2Tp3N8rcj9&secret=21c44819e99977adeced3030c51913ac&time=1736774881
+https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/zl8lahge5zbgc09df1swffo6knrg5ny44k/hdntl=exp=1737572614~acl=*%2fzl8lahge5zbgc09df1swffo6knrg5ny44k%2f*~data=hdntl~hmac=b9b3b68a86b4b4fdb5f0dce17290c3839c8f1d7070756393d0f1ab1ef9322f4b/chunklist_480.stream.m3u8?hdnts=st=1737540192~exp=1737572602~acl=*/zl8lahge5zbgc09df1swffo6knrg5ny44k/*~hmac=24673010499b82a16cc4ab87abbe8ccd2d9f10138c13c543002aaa6d0f48a3e3
