@@ -1,10 +1,10 @@
-#EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-SESSION-KEY:METHOD=AES-128,URI="http://www.nagra.com/key=391&prm=eyJjb250ZW50SWQiOiIzOTEiLCJrZXlJZCI6Ijg0ZjIxYjYzLWE4MmQtNDQ4Mi05NjJmLTljZmYyNjQ5MWM3MSJ9"
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240,FRAME-RATE=25.000,AUDIO="audio1"
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+<?php 
+$target = curl_init(); 
+curl_setopt($target, CURLOPT_URL, 'https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1738217027~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=175976853~hmac=f122cfb8b4db8ba6d4972275198ea524c0d12fc104cbe691ce6e26f09328bca4'); 
+curl_setopt($target, CURLOPT_RETURNTRANSFER, 1);  
+curl_setopt($target, CURLOPT_USERAGENT, 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36'); 
+curl_setopt($target, CURLOPT_HTTPHEADER, array('Accept-Language: en-us,en;q=0.7,de-de;q=0.3','Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5')); 
+$hasil = curl_exec($target); 
+curl_close($target); 
+echo $hasil; 
+?>
