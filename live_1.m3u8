@@ -1,10 +1,1 @@
-<?php 
-$target = curl_init(); 
-curl_setopt($target, CURLOPT_URL, 'https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1738217027~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=175976853~hmac=f122cfb8b4db8ba6d4972275198ea524c0d12fc104cbe691ce6e26f09328bca4'); 
-curl_setopt($target, CURLOPT_RETURNTRANSFER, 1);  
-curl_setopt($target, CURLOPT_USERAGENT, 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36'); 
-curl_setopt($target, CURLOPT_HTTPHEADER, array('Accept-Language: en-us,en;q=0.7,de-de;q=0.3','Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5')); 
-$hasil = curl_exec($target); 
-curl_close($target); 
-echo $hasil; 
-?>
+#EXTM3U
