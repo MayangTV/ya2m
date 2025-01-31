@@ -1,10 +1,3 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=444100,RESOLUTION=480x270
-https://streaming.indihometv.com/joss/133/beib1/chunklist_w379880294_b444100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=844100,RESOLUTION=640x360
-https://streaming.indihometv.com/joss/133/beib1/chunklist_w379880294_b844100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1244100,RESOLUTION=960x540
-https://streaming.indihometv.com/joss/133/beib1/chunklist_w379880294_b1244100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1544100,RESOLUTION=1280x720
-https://streaming.indihometv.com/joss/133/beib1/chunklist_w379880294_b1544100_sleng.m3u8
+https://in-your-face.starlive.workers.dev/Q8QpcZPditmze3rCIwcb0g/Fv2lucGIbhPi2caWYvF5Lg/1738232961218/live/may24/chunklist.m3u8
