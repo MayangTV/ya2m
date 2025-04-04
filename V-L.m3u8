@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5192000,CODECS="avc1.64002A,mp4a.40.2",RESOLUTION=1920x1080
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/ee9xkclotpcacr339yo9jgt6620izekkzc/1080.stream/hdntl=exp=1743622366~acl=*%2Fee9xkclotpcacr339yo9jgt6620izekkzc%2F*~data=hdntl~hmac=1d5e8a0e42a5e48f3fef673a8fac1d501134b47d0c856958911faf48cff604c5/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/vn3cxjhspnobbzc3miahm0tlaynib1j2bw/1080.stream/hdntl=exp=1743793106~acl=*%2Fvn3cxjhspnobbzc3miahm0tlaynib1j2bw%2F*~data=hdntl~hmac=92cbcf8f7952f736e38d743f9da05280ecd212ce6af049e12efdb65747d1830b/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2128000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/ee9xkclotpcacr339yo9jgt6620izekkzc/720.stream/hdntl=exp=1743622366~acl=*%2Fee9xkclotpcacr339yo9jgt6620izekkzc%2F*~data=hdntl~hmac=1d5e8a0e42a5e48f3fef673a8fac1d501134b47d0c856958911faf48cff604c5/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/vn3cxjhspnobbzc3miahm0tlaynib1j2bw/720.stream/hdntl=exp=1743793106~acl=*%2Fvn3cxjhspnobbzc3miahm0tlaynib1j2bw%2F*~data=hdntl~hmac=92cbcf8f7952f736e38d743f9da05280ecd212ce6af049e12efdb65747d1830b/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1128000,CODECS="avc1.4D401F,mp4a.40.2",RESOLUTION=854x480
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/ee9xkclotpcacr339yo9jgt6620izekkzc/480.stream/hdntl=exp=1743622366~acl=*%2Fee9xkclotpcacr339yo9jgt6620izekkzc%2F*~data=hdntl~hmac=1d5e8a0e42a5e48f3fef673a8fac1d501134b47d0c856958911faf48cff604c5/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/vn3cxjhspnobbzc3miahm0tlaynib1j2bw/480.stream/hdntl=exp=1743793106~acl=*%2Fvn3cxjhspnobbzc3miahm0tlaynib1j2bw%2F*~data=hdntl~hmac=92cbcf8f7952f736e38d743f9da05280ecd212ce6af049e12efdb65747d1830b/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=928000,CODECS="avc1.4D401E,mp4a.40.2",RESOLUTION=640x360
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/ee9xkclotpcacr339yo9jgt6620izekkzc/360.stream/hdntl=exp=1743622366~acl=*%2Fee9xkclotpcacr339yo9jgt6620izekkzc%2F*~data=hdntl~hmac=1d5e8a0e42a5e48f3fef673a8fac1d501134b47d0c856958911faf48cff604c5/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/vn3cxjhspnobbzc3miahm0tlaynib1j2bw/360.stream/hdntl=exp=1743793106~acl=*%2Fvn3cxjhspnobbzc3miahm0tlaynib1j2bw%2F*~data=hdntl~hmac=92cbcf8f7952f736e38d743f9da05280ecd212ce6af049e12efdb65747d1830b/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=496000,CODECS="avc1.4D4015,mp4a.40.2",RESOLUTION=480x272
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/ee9xkclotpcacr339yo9jgt6620izekkzc/272.stream/hdntl=exp=1743622366~acl=*%2Fee9xkclotpcacr339yo9jgt6620izekkzc%2F*~data=hdntl~hmac=1d5e8a0e42a5e48f3fef673a8fac1d501134b47d0c856958911faf48cff604c5/chunklist.m3u8
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/vn3cxjhspnobbzc3miahm0tlaynib1j2bw/272.stream/hdntl=exp=1743793106~acl=*%2Fvn3cxjhspnobbzc3miahm0tlaynib1j2bw%2F*~data=hdntl~hmac=92cbcf8f7952f736e38d743f9da05280ecd212ce6af049e12efdb65747d1830b/chunklist.m3u8
