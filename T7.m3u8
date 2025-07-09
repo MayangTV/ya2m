@@ -1,4 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=894100, RESOLUTION=1280x720
-https://fhlsport121.fgs37g8.xyz/token-LRd4nLDFKqKG6mcuw%2FY6ymnVlMPRgnvjbHD%2BwPccEjmns%2BXLHUFdD4skrBBKXU5JBCeIwzBpmv10a/cfall/s2001/v3b/0518sr1onUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_608252.m3u8
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/9182/file/drm/dash/9182_stream.mpd?hdnts=exp=1752044643~acl=/stream/9182/file/*~id=175976853~hmac=770d86d26496391ce18ac3a01289c5e871691d0d9b58844a2e944ba182d4d8f7
