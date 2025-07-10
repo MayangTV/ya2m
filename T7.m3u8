@@ -6,4 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/9182/file/drm/dash/9182_stream.mpd?hdnts=exp=1752044643~acl=/stream/9182/file/*~id=175976853~hmac=770d86d26496391ce18ac3a01289c5e871691d0d9b58844a2e944ba182d4d8f7
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18853/file/drm/dash/18853_stream.mpd?hdnts=exp=1752144046~acl=/stream/18853/file/*~id=175976853~hmac=c153551e4813bf41d37b1513a3a7a06262ccdec4b117ddc0317ae3c16f56d3e3
