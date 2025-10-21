@@ -1,4 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1128000,CODECS="avc1.4D401F,mp4a.40.2",RESOLUTION=854x480
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/b2mhnkmtnbiygoxdjuyrmsvaw3bv0b9yap/720.stream/hdntl=exp=1761073210~acl=*%2Fb2mhnkmtnbiygoxdjuyrmsvaw3bv0b9yap%2F*~data=hdntl~hmac=5feccd59c308ff4adaef217fb14e303c0bd82c1501cc7db4ab0f8bca38052ad9/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5192000,CODECS="avc1.64002A,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=60.00
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt/1080.stream/hdntl=exp=1761075920~acl=*%2Fifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt%2F*~data=hdntl~hmac=c3ca0fd7a8a4ded497b57e21ed64291167a43c4b54c278424c9d048f6d1f9d0c/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2128000,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.00
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt/720.stream/hdntl=exp=1761075920~acl=*%2Fifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt%2F*~data=hdntl~hmac=c3ca0fd7a8a4ded497b57e21ed64291167a43c4b54c278424c9d048f6d1f9d0c/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1128000,CODECS="avc1.4D401F,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30.00
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt/480.stream/hdntl=exp=1761075920~acl=*%2Fifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt%2F*~data=hdntl~hmac=c3ca0fd7a8a4ded497b57e21ed64291167a43c4b54c278424c9d048f6d1f9d0c/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=928000,CODECS="avc1.4D401E,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30.00
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt/360.stream/hdntl=exp=1761075920~acl=*%2Fifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt%2F*~data=hdntl~hmac=c3ca0fd7a8a4ded497b57e21ed64291167a43c4b54c278424c9d048f6d1f9d0c/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=496000,CODECS="avc1.4D4015,mp4a.40.2",RESOLUTION=480x272,FRAME-RATE=30.00
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/ifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt/272.stream/hdntl=exp=1761075920~acl=*%2Fifa7nu6cyghdq2cdjpfl2fi2xrq4iodjyt%2F*~data=hdntl~hmac=c3ca0fd7a8a4ded497b57e21ed64291167a43c4b54c278424c9d048f6d1f9d0c/chunklist.m3u8
